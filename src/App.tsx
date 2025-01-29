@@ -1,4 +1,3 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import { Bike, Car, Package, Download, ChevronRight, Star, MapPin, Phone, Mail } from 'lucide-react';
 
