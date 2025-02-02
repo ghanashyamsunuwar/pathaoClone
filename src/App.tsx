@@ -45,7 +45,7 @@ function App() {
           <div className="flex flex-col md:flex-row items-center">
             <div className="md:w-1/2">
               <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">
-                Your City, Your Move
+                Kathmandu, Your Move
               </h1>
               <p className="text-purple-100 text-xl mb-8">
                 Experience the fastest way to move around your city with Pathao's reliable services.
