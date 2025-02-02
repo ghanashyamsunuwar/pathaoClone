@@ -156,7 +156,7 @@ function App() {
         <div className="container mx-auto px-6">
           <div className="grid md:grid-cols-4 gap-8">
             <div>
-              <h3 className="text-2xl font-bold mb-4">Pathao Clone</h3>
+              <h3 className="text-2xl font-bold mb-4">Pathao Clone website</h3>
               <p className="text-gray-400">Moving people and things that matter.</p>
             </div>
             <div>
